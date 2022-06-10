@@ -1,0 +1,5 @@
+body header {
+    font-family: sans-serif;
+    background-color: grey;
+    display: flex;
+}
